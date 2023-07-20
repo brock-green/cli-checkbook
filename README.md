@@ -1,0 +1,1 @@
+This repository houses the functions and .py script to run a terminal based checkbook. Use it to track deposits, withdrawals, and your account balance.
